@@ -1,0 +1,151 @@
+{
+    "delitos_por_barrio": [
+        {
+            "PUERTO MADERO": 338
+        },
+        {
+            "AGRONOMIA": 1279
+        },
+        {
+            "PARQUE CHAS": 1336
+        },
+        {
+            "COGHLAND": 1514
+        },
+        {
+            "VILLA REAL": 1515
+        },
+        {
+            "VERSALLES": 1528
+        },
+        {
+            "VILLA ORTUZAR": 1960
+        },
+        {
+            "VILLA RIACHUELO": 1972
+        },
+        {
+            "PATERNAL": 2043
+        },
+        {
+            "null": 2962
+        },
+        {
+            "MONTE CASTRO": 3035
+        },
+        {
+            "VILLA PUEYRREDON": 3379
+        },
+        {
+            "VILLA LURO": 3414
+        },
+        {
+            "VILLA SANTA RITA": 3505
+        },
+        {
+            "VELEZ SARSFIELD": 3562
+        },
+        {
+            "VILLA GRAL MITRE": 3784
+        },
+        {
+            "COLEGIALES": 4103
+        },
+        {
+            "VILLA DEL PARQUE": 4252
+        },
+        {
+            "CHACARITA": 4392
+        },
+        {
+            "FLORESTA": 4596
+        },
+        {
+            "SAN TELMO": 4986
+        },
+        {
+            "LA BOCA": 5024
+        },
+        {
+            "VILLA SOLDATI": 5213
+        },
+        {
+            "NU\u00d1EZ": 5381
+        },
+        {
+            "SAAVEDRA": 5459
+        },
+        {
+            "PARQUE AVELLANEDA": 5639
+        },
+        {
+            "BOEDO": 5852
+        },
+        {
+            "SAN CRISTOBAL": 5989
+        },
+        {
+            "PARQUE PATRICIOS": 6103
+        },
+        {
+            "VILLA DEVOTO": 6168
+        },
+        {
+            "LINIERS": 7051
+        },
+        {
+            "VILLA URQUIZA": 7323
+        },
+        {
+            "PARQUE CHACABUCO": 7459
+        },
+        {
+            "NUEVA POMPEYA": 7645
+        },
+        {
+            "MONTSERRAT": 8404
+        },
+        {
+            "RETIRO": 8488
+        },
+        {
+            "MATADEROS": 8554
+        },
+        {
+            "VILLA CRESPO": 8699
+        },
+        {
+            "CONSTITUCION": 9618
+        },
+        {
+            "BARRACAS": 9996
+        },
+        {
+            "VILLA LUGANO": 11295
+        },
+        {
+            "BELGRANO": 11525
+        },
+        {
+            "ALMAGRO": 14334
+        },
+        {
+            "RECOLETA": 16608
+        },
+        {
+            "CABALLITO": 16703
+        },
+        {
+            "SAN NICOLAS": 17319
+        },
+        {
+            "FLORES": 18792
+        },
+        {
+            "BALVANERA": 23195
+        },
+        {
+            "PALERMO": 27689
+        }
+    ]
+}
